@@ -17,3 +17,8 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Documents (not code)
+*.md
+!README.md
+!docs/plans/*.md
