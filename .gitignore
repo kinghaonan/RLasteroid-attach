@@ -1,0 +1,19 @@
+# Training artifacts
+logs/
+*.zip
+*.pkl
+tensorboard/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
